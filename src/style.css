@@ -561,7 +561,7 @@ button:focus {
 
 .project-heading {
   color: white !important;
-  font-size: 2.3em !important;
+  font-size: 50px !important;
   font-weight: 500 !important;
   padding-top: 10px !important;
 }
@@ -574,7 +574,8 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-image: var(--image-gradient),
+    url(./Assets/james-stamler-k3heD_KwH0A-unsplash.jpg);
   color: white !important;
 }
 
