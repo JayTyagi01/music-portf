@@ -14,23 +14,13 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>If you want to collab you can contact me</h3>
+          <h3>If you want to collab you can Contact Us</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Music</h3>
+          <h3>Copyright © {year} BlackNights Music Studio</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
-            <li className="social-icons">
-              <a
-                href=""
-                style={{ color: "white" }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
             <li className="social-icons">
               <a
                 href=""
