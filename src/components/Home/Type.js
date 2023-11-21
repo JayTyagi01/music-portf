@@ -8,12 +8,10 @@ function Type() {
         strings: [
           "where creativity knows no bounds",
           "the art of sound comes to life",
-          "GHI",
-          "JKL",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 69,
+        deleteSpeed: 89,
       }}
     />
   );

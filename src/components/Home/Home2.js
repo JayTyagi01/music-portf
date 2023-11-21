@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, CSS, Java and Javascript. </b>
+                <b className="purple"> music </b>
               </i>
               <br />
               <br />
