@@ -473,7 +473,8 @@ button:focus {
   position: relative !important;
   padding-top: 150px !important;
   padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
+  background-image: var(--image-gradient),
+    url(./Assets/james-stamler-k3heD_KwH0A-unsplash.jpg);
 }
 
 .project-card {
